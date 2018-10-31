@@ -5,10 +5,6 @@ NEED TO REMOVE THE ARCHIVE FROM THE F5
 NEED TO CHECK SPACE  BEFORE START
 DISK FILLS FAST
 
-172.31.60.1     faauryd01f502
-172.31.60.2     faaueqx01f502
-172.31.60.4     faauryd01f501
-172.31.60.5     faaueqx01f501
 """
 
 # library imports
